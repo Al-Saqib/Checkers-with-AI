@@ -34,8 +34,7 @@ python checkers.py
 ```
 
 ## Project Structure
-checkers.py: The main Python file containing the implementation of the Checkers game with the Minimax algorithm and Alpha-Beta Pruning.
-report.pdf: The project report detailing the specifications, functionality, and challenges encountered during the development of the game.
+- checkers.py: The main Python file containing the implementation of the Checkers game with the Minimax algorithm and Alpha-Beta Pruning.
 
 ## Features
 ### Gameplay
